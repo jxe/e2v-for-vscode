@@ -1,0 +1,82 @@
+{
+    "sad": {
+        "prefix": "sad",
+        "body": [
+            "## Sadness",
+            "- *What was lost?* $1",
+            "- *What's worth reclaiming?* $2"
+        ]
+    },
+    "hurt": {
+        "prefix": "hurt",
+        "body": [
+            "## Hurt",
+            "- *What was unsafe to emerge?* $1",
+            "- *What would provide that safety?* $2",
+            "- *What's worth nurturing?* $3"
+        ]
+    },
+    "lonely": {
+        "prefix": "lonely",
+        "body": [
+            "## Lonely",
+            "- *What was unsafe to emerge?* $1",
+            "- *Who would provide that safety?* $2"
+        ]
+    },
+    "shame": {
+        "prefix": "shame",
+        "body": [
+            "## Ashamed",
+            "- *What where you neglecting to consider?* $1",
+            "- *What value did you fail to live by?* $2",
+        ]
+    },
+    "confused": {
+        "prefix": "confused",
+        "body": [
+            "## Confused",
+            "- *What way of living is out of focus?* $1"
+        ]
+    },
+    "regret": {
+        "prefix": "regret",
+        "body": [
+            "## Regret",
+            "- *What did I not honor?* $1",
+            "- *What became impossible?* $2"
+        ]
+    },
+    "fear": {
+        "prefix": "fear",
+        "body": [
+            "## Fear",
+            "- *What way of living is threatened?* $1",
+            "- *What might become impossible?* $2"
+        ]
+    },
+    "disgust": {
+        "prefix": "disgust",
+        "body": [
+            "## Disgust",
+            "- *What way of living was violated?* $1",
+            "- *What must be recovered?* $2"
+        ]
+    },
+    "exhausted": {
+        "prefix": "exhausted",
+        "body": [
+            "## Exhausted",
+            "- *What's worth demoting?* $1",
+            "- *What way of living doesn't make sense anymore?* $2",
+            "- *What's worth embracing?* $3",
+        ]
+    },
+    // "": {
+    //     "prefix": "",
+    //     "body": [
+    //         "# ",
+    //         "- ** $1"
+    //     ]
+    // }
+}

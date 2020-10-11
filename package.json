@@ -1,0 +1,21 @@
+{
+    "name": "emotions2values",
+    "displayName": "emotions2values",
+    "description": "Emotions to Values",
+    "publisher": "jxe",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
